@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+h1 {
+    text-align: center;
+    font-family: Ubuntu, sans-serif;
+    color: #575757;
+    margin: 0;
+}
+
+p {
+    font-family: Ubuntu, sans-serif;
+    color: #575757;
+    margin: 0;
+}
